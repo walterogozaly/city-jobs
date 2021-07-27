@@ -33,7 +33,7 @@ This project requires Node and NPM installed globally.
 
 Clone the repository to a directory of your choosing: 
 
-[repository link]
+###### `https://github.com/walterogozaly/city-jobs.git`
 
 Navigate into city-jobs and install the necessary packages. 
 
