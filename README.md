@@ -1,6 +1,6 @@
 # City Jobs (Front End)
 
-An interactive look at job postings by city and job title. The project was created using the create-react-app CLI. The app is meant to work in conjunction with a server found here. The live version of City Jobs can be found here. 
+An interactive look at job postings by city and job title. The project was created using the create-react-app CLI. The app is meant to work in conjunction with a server found **here**. The live version of City Jobs can be found **here**. 
 
 #### Table of Contents
 - Description
@@ -43,7 +43,7 @@ To start the app locally:
 
 ######  `$ npm start`
 
-Additionally, this project also requires you to clone and run the server code from this repo to work properly.
+Additionally, this project also requires you to clone and run the server code from **this** repo to work properly.
 
 ### Architecture
 
